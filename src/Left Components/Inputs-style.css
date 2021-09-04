@@ -1,0 +1,31 @@
+.btnAdd,.mark{
+    background-color: forestgreen;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+    margin-block: 10px;
+}
+.btnSearch{
+    background-color: forestgreen;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+    /* float: right; */
+    margin-inline-end: 5px;
+}
+.add-box{
+    padding: 10px;
+    font-size: 17px;
+    /* margin-block-end: 10px; */
+    width: 90%;
+}
+.search-box{
+    padding: 10px;
+    font-size: 17px;
+    margin-inline-end: 10px;
+    width: 50%;
+}
